@@ -1,0 +1,18 @@
+## Solution
+
+$A$ has 2 rows and 3 columns, so it is $2\times 3$; $B$ is $3\times 2$.
+
+Entry $a_{ij}$ is in row $i$, column $j$:
+
+$$
+a_{12}=-1,\quad a_{23}=5,\quad b_{21}=-2,\quad b_{32}=1.
+$$
+
+$$
+\mathbf r_2(A)=\begin{pmatrix}0 & 4 & 5\end{pmatrix},\qquad
+\mathbf c_1(B)=\begin{pmatrix}1\\ -2\\ 4\end{pmatrix}.
+$$
+
+## Verification
+
+$A$ has $2\cdot3=6$ entries and $B$ has $3\cdot2=6$, as given.
