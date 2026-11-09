@@ -30,8 +30,16 @@ a_{12}=-1,\quad a_{23}=5,\quad b_{21}=-2,\quad b_{32}=1.
 $$
 
 $$
-\mathbf r_2(A)=\begin{pmatrix}0 & 4 & 5\end{pmatrix},\qquad
-\mathbf c_1(B)=\begin{pmatrix}1\\ -2\\ 4\end{pmatrix}.
+\mathbf r_2(A)=
+\begin{pmatrix}
+0 & 4 & 5
+\end{pmatrix},\qquad
+\mathbf c_1(B)=
+\begin{pmatrix}
+1 \\
+-2 \\
+4
+\end{pmatrix}.
 $$
 
 ## Verification
