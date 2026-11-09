@@ -1,3 +1,13 @@
+## Question
+
+Suppose that for a $3\times3$ matrix, $\det A=-4$. Compute
+
+$$
+\det(2A),\qquad \det(A^T),\qquad \det(A^2),\qquad \det(-A).
+$$
+
+Justify each answer using the appropriate property.
+
 ## Solution
 
 - $\det(2A)=2^3\det A=-32$,
