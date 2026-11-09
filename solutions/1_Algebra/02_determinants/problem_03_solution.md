@@ -1,3 +1,20 @@
+## Question
+
+For
+
+$$
+A=
+\begin{pmatrix}
+1 & 2 & 0 \\
+0 & 3 & 1 \\
+2 & 1 & 1 \\
+\end{pmatrix}
+$$
+
+compute $\det A$. Then form a matrix $B$ by swapping the first and second rows of $A$.
+
+First predict $\det B$ using a determinant property, and then verify your prediction by calculation.
+
 ## Solution
 
 $$
